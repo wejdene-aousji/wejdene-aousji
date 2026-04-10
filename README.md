@@ -5,13 +5,18 @@
 
 ---
 
-💡 Passionate about building **smart ERP solutions** and using **Data Science & AI** to optimize business processes.
-🚀 Interested in backend development, intelligent systems, and automation.
+About Me
 
----
+🎓 Master's student in Data Science and Software Development
+🎓 Bachelor's degree in Applied Computer Science in Management (High Honors)
 
-🔭 Currently pursuing a Master's in **Data Science & Software Development**
-🌱 Learning **Spring Boot**, **Machine Learning**, and **Cybersecurity fundamentals**
+💡 Passionate about:
+
+ERP systems & business process optimization
+Data analysis & machine learning
+Developing digital solutions for real-world problems
+
+🎯 Currently looking to join a dynamic team to contribute to ERP solutions and improve my technical & functional skills
 
 ---
 
@@ -30,9 +35,18 @@
 * Strong teamwork in demanding environments
 
 ---
-
+## 🎓 Education
+🎓 Master in Data Science & Software Development (2025 – 2027, planned)
+🎓 Bachelor's in Applied Computer Science in Management
+🎓 Baccalaureate in Economics & Management
+---
+## 🌍 Languages
+Arabic: Native
+French: Fluent
+English: Intermediate
+German & Russian: Basic
+---
 ## 💡 Let's Collaborate
-
 🤝 Open to collaboration on:
 
 * ERP Systems
@@ -94,6 +108,15 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
+##🤝 Soft Skills
+Teamwork & collaboration
+Problem-solving mindset
+Adaptability & flexibility
+Fast learner
+---
+##🎯 Interests
+Advanced backend development (Spring Boot)
+Cybersecurity fundamentals
 
 ## 👀 Profile Views
 
