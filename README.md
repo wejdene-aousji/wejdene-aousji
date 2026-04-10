@@ -97,9 +97,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wejdene-aousji\&show_icons=true\&theme=dark)
+![GitHub Stats]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wejdene-aousji\&layout=compact\&theme=dark)
+![Top Languages]
 
 ---
 
