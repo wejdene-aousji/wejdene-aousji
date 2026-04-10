@@ -95,14 +95,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wejdene-aousji\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wejdene-aousji\&layout=compact\&theme=dark)
-
----
-
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wejdene-aousji\&color=blue)
