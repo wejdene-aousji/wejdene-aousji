@@ -36,11 +36,13 @@ Developing digital solutions for real-world problems
 
 ---
 ## 🎓 Education
+
 🎓 Master in Data Science & Software Development (2025 – 2027, planned)
 🎓 Bachelor's in Applied Computer Science in Management
 🎓 Baccalaureate in Economics & Management
 ---
 ## 🌍 Languages
+
 Arabic: Native
 French: Fluent
 English: Intermediate
@@ -109,12 +111,14 @@ German & Russian: Basic
 
 ---
 ##🤝 Soft Skills
+
 Teamwork & collaboration
 Problem-solving mindset
 Adaptability & flexibility
 Fast learner
 ---
 ##🎯 Interests
+
 Advanced backend development (Spring Boot)
 Cybersecurity fundamentals
 
