@@ -1,126 +1,108 @@
-# 👋 Hi, I'm Aousji Wejdene
+# 👩‍💻 About Me
 
+👋 **Hi, I'm Aousji Wejdene**
 💻 Information Systems & ERP Developer | Data Science Student
 
 ---
 
-## 🚀 About Me
-
-🎓 Master's student in **Data Science and Software Development**
-🎓 Bachelor's degree in **Applied Computer Science in Management (High Honors)**
-
-💡 Passionate about:
-
-* ERP systems & business process optimization
-* Data analysis & machine learning
-* Developing digital solutions for real-world problems
-
-🎯 Currently looking to join a **dynamic team** to contribute to ERP solutions and improve my technical & functional skills
+💡 Passionate about building **smart ERP solutions** and using **Data Science & AI** to optimize business processes.
+🚀 Interested in backend development, intelligent systems, and automation.
 
 ---
 
-## 🛠️ Technical Skills
+🔭 Currently pursuing a Master's in **Data Science & Software Development**
+🌱 Learning **Spring Boot**, **Machine Learning**, and **Cybersecurity fundamentals**
 
-### 💻 Programming Languages
+---
 
-* Python (pandas, scikit-learn, matplotlib)
-* R (tidyverse, ggplot2, caret)
-* Java (JEE, Spring Boot)
-* PHP (CodeIgniter)
-* C / C++ / C#
-* SQL / PL-SQL
+## 💼 Work Experience
 
-### 📊 Data Science & AI
+💼 **ERP Developer Intern – Devnet (2025)**
 
-* Data preprocessing
-* Statistical modeling
-* Machine Learning
-* Deep Learning
-* Data visualization
+* Developed advanced **school scheduling module (EduMS ERP)**
+* Intelligent timetable generation system
+* Tech: CodeIgniter, functional analysis, testing
+
+🏭 **Production Operator – Cofat, Leoni, Lear Corporation**
+
+* Automotive wiring systems manufacturing
+* Quality control & industrial processes
+* Strong teamwork in demanding environments
+
+---
+
+## 💡 Let's Collaborate
+
+🤝 Open to collaboration on:
+
+* ERP Systems
+* Backend Development
+* Data Science projects
+
+---
+
+## 📬 Contact
+
+📧 Email: [wsjywjdan@gmail.com](mailto:wsjywjdan@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/wejdene-aousji
+
+---
+
+## 🚀 Technical Skills
+
+### 🖥️ Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+
+---
+
+### 📊 Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+---
 
 ### 🏢 ERP & BI
 
-* Odoo
-* EduMS
-* Apache Superset
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)
+![ERP](https://img.shields.io/badge/EduMS-4CAF50?style=for-the-badge)
+![Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge)
+
+---
 
 ### 🗄️ Databases
 
-* MongoDB
-* MySQL
-* Oracle
-
-### 🔧 Tools
-
-* Git & GitHub
-* Postman
-* VS Code / IntelliJ / Visual Studio / RStudio
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+### 🛠️ Tools
 
-### 🎓 Final Year Internship – Devnet (Feb 2025 – Apr 2025)
-
-* Developed an **advanced school scheduling module** integrated into ERP *EduMS*
-* Designed a system to automatically generate class & teacher schedules with constraints
-* Collaborated with product team for UX & functional validation
-* Built solution using **CodeIgniter**
-* Performed testing, validation & documentation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-### 🏭 Production Operator – Automotive Industry
+## 📈 GitHub Stats
 
-(Cofat, Leoni, Lear Corporation)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wejdene-aousji\&show_icons=true\&theme=dark)
 
-* Worked on manufacturing automotive wiring systems
-* Quality control & compliance with safety standards
-* Experience in high-pressure industrial environments
-* Strong teamwork and discipline
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wejdene-aousji\&layout=compact\&theme=dark)
 
 ---
 
-## 🎓 Education
+## 👀 Profile Views
 
-* 🎓 Master in Data Science & Software Development *(2025 – 2027, planned)*
-* 🎓 Bachelor's in Applied Computer Science in Management
-* 🎓 Baccalaureate in Economics & Management
-
----
-
-## 🌍 Languages
-
-* Arabic: Native
-* French: Fluent
-* English: Intermediate
-* German & Russian: Basic
-
----
-
-## 🤝 Soft Skills
-
-* Teamwork & collaboration
-* Problem-solving mindset
-* Adaptability & flexibility
-* Fast learner
-
----
-
-## 🎯 Interests
-
-* Advanced backend development (Spring Boot)
-* Cybersecurity fundamentals
-
----
-
-## 📫 Contact
-
-* 📧 Email: [wsjywjdan@gmail.com](mailto:wsjywjdan@gmail.com)
-* 🔗 LinkedIn: https://linkedin.com/in/wejdene-aousji
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building **smart ERP solutions that simplify complex processes** 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=wejdene-aousji\&color=blue)
