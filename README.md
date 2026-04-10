@@ -5,18 +5,18 @@
 
 ---
 
-About Me
+## 🚀 About Me
 
-🎓 Master's student in Data Science and Software Development
-🎓 Bachelor's degree in Applied Computer Science in Management (High Honors)
+🎓 Master's student in **Data Science and Software Development**
+🎓 Bachelor's degree in **Applied Computer Science in Management (High Honors)**
 
 💡 Passionate about:
 
-ERP systems & business process optimization
-Data analysis & machine learning
-Developing digital solutions for real-world problems
+* ERP systems & business process optimization
+* Data analysis & machine learning
+* Developing digital solutions for real-world problems
 
-🎯 Currently looking to join a dynamic team to contribute to ERP solutions and improve my technical & functional skills
+🎯 Currently looking to join a **dynamic team** to contribute to ERP solutions and improve my technical & functional skills
 
 ---
 
@@ -25,7 +25,7 @@ Developing digital solutions for real-world problems
 💼 **ERP Developer Intern – Devnet (2025)**
 
 * Developed advanced **school scheduling module (EduMS ERP)**
-* Intelligent timetable generation system
+* Built an intelligent timetable generation system
 * Tech: CodeIgniter, functional analysis, testing
 
 🏭 **Production Operator – Cofat, Leoni, Lear Corporation**
@@ -35,20 +35,26 @@ Developing digital solutions for real-world problems
 * Strong teamwork in demanding environments
 
 ---
+
 ## 🎓 Education
 
-🎓 Master in Data Science & Software Development (2025 – 2027, planned)
-🎓 Bachelor's in Applied Computer Science in Management
-🎓 Baccalaureate in Economics & Management
+🎓 Master in **Data Science & Software Development** *(2025 – 2027, planned)*
+🎓 Bachelor's in **Applied Computer Science in Management**
+🎓 Baccalaureate in **Economics & Management**
+
 ---
+
 ## 🌍 Languages
 
-Arabic: Native
-French: Fluent
-English: Intermediate
-German & Russian: Basic
+* Arabic: Native
+* French: Fluent
+* English: Intermediate
+* German & Russian: Basic
+
 ---
+
 ## 💡 Let's Collaborate
+
 🤝 Open to collaboration on:
 
 * ERP Systems
@@ -110,18 +116,24 @@ German & Russian: Basic
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
-##🤝 Soft Skills
 
-Teamwork & collaboration
-Problem-solving mindset
-Adaptability & flexibility
-Fast learner
+## 🤝 Soft Skills
+
+* Teamwork & collaboration
+* Problem-solving mindset
+* Adaptability & flexibility
+* Fast learner
+
 ---
-##🎯 Interests
 
-Advanced backend development (Spring Boot)
-Cybersecurity fundamentals
+## 🎯 Interests
+
+* Advanced backend development (Spring Boot)
+* Cybersecurity fundamentals
+
+---
 
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wejdene-aousji\&color=blue)
+
